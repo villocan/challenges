@@ -9,4 +9,4 @@ const solution = function(A) {
     }
     return A;
 }
-solution([9, 3, 9, 3, 9, 7, 9, 7, 5])
+console.log(solution([9, 3, 9, 3, 9, 7, 9, 7, 5]))
